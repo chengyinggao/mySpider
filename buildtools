@@ -1,0 +1,6 @@
+源码编译：
+1.将build包git reset --hard恢复
+2.make init
+3.make
+4.sudo make install
+5.make install-bashcomplete
